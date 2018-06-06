@@ -6,7 +6,7 @@ var cors = require('cors')
 const database = {
   users: [{
     id: '123',
-    name: 'Andrei',
+    name: 'Alex',
     email: 'john@gmail.com',
     entries: 0,
     joined: new Date()
